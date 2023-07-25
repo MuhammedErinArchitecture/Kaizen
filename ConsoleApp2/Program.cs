@@ -2229,10 +2229,6 @@
             bool _switch = default;
             foreach (var point in points)
             {
-                if (point.description == "MF")
-                {
-
-                }
                 if (((point.x < prevX || point.x <= 171) && (point.y - prevY) > 10) || (point.x == prevX))
                 {
                     lines.Add(currentLine.Trim());

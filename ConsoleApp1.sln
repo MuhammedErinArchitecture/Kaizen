@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F17284CA-637D-4F12-A6A9-599F048FD8A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuidGenerator", "ConsoleApp1\GuidGenerator.csproj", "{F17284CA-637D-4F12-A6A9-599F048FD8A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{8A4FED88-F142-48C4-BACD-6723BD67D6BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCR", "ConsoleApp2\OCR.csproj", "{8A4FED88-F142-48C4-BACD-6723BD67D6BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
